@@ -13,7 +13,7 @@ If the datasets is being used for a publication, MoMA requested to cite it using
 | Variables     | Descriptions  |
 | ------------- | ------------- |
 | Title         | Title of the artwork |
-| Artist        | Creatoer of the artwork |
+| Artist        | Creator of the artwork |
 | ConstituentID    | Unique ID for the artist  |
 | Nationality    | Nationality of the artist |
 | Begin Date  | Birth year of the artist |
@@ -26,4 +26,5 @@ If the datasets is being used for a publication, MoMA requested to cite it using
 | Classification  | Type of artwork  |
 | Department | The department the artwork belongs to |
 | Date Acquired | The date the artwork was acquired |
+| URL  | Link to the artwork information |
 
